@@ -4,8 +4,8 @@
 ## 새롭게 배운 내용
 
 #### 1. 연관 클래스를 이용해 Student Class와 Course Class를 매개해주는 클래스(Transcript)를 하나 만들었음, 이를 연관클래스라고 한다. Transcript 클래스에는 Student와 Course 클래스의 객체를 선언한다. Student와 Class를 포함할 수 있는 컨테이너라고 생각하면 편할 것 같다. 연관클래스를 쓰면 좋은 점이 Student와 Course를 정리할 수 있다는 것이다. 이는 아래에서 설명하겠다. 연관클래스를 그림으로 표현하면 다음과 같다.
-![Association](.img/association.png)
-![클래스 구조](.img/Structure.png)
+![Association](./img/association.png)
+![클래스 구조](./img/Structure.png)
 
 #### 2. 매개해준 클래스의 객체를 받아 ArrayList에 넣는 방법이 인상적임
  > ##### Student 클래스
