@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Course {
 	
-	private ArrayList<Transcript> list;
+	public ArrayList<Transcript> list;
 	private String subject;
 
 	public Course(String subject){
